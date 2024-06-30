@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<log>
+    <message>This is an XML log message.</message>
+    <timestamp>1719756922111</timestamp>
+</log>
+
